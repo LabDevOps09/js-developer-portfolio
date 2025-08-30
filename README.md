@@ -38,3 +38,6 @@ Skills – Exposição das habilidades mais conhecidas e utilizadas.
 Idiomas – Lista de idiomas com nível de proficiência.
 
 Portfólio – Destaque de alguns projetos desenvolvidos, com links e imagens.
+
+---
+![p1](https://github.com/user-attachments/assets/480670a3-f868-4151-b90e-8fe4d59d9c33)
